@@ -1,14 +1,14 @@
 # Proyecto Final
 
 ## Idea:
- La idea de hacer esta pagina es para informar respecto a los sismos emergentes en distintos puntos de la tierra, como reaccionar e informacion de estos.
+ La aplicacion a demostrar se basa en la cotizacion de los envios que se hacen, para tener un aproximado.
 
 ### Descripcion: 
 
-Frente a todo lo sucedido frente a la pandemia y otros virus, la gente esta alterada y suele ser mas arrebatados en su modo de pensar, ya que la situacion altera nuestros pensamientos y terminamos errando en deciciones claves. La pagina se centra en informar para poder mantener un margen y que no pasen mas desgracias.
+a traves de datos ingresados se calculara el valor total aproximado del envio, Distancia, peso y cargamento.
 
-### Uso:
- Informativo.
  
 ## Creador:
- Juan Fernando Villagran Olivera, Universidad de La Frontera.
+ Juan Fernando Villagran Olivera, Universidad de La Frontera
+ Sebastian Andres Candia Cabezas Universidad de la Frontera
+ Camilo Ignacio Godoy Cortez Universidad de la Frontera
