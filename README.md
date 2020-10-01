@@ -7,17 +7,11 @@
 
 a traves de datos ingresados se calculara el valor total aproximado del envio, Distancia, peso y cargamento.
 
- 
-#### Creador:
- -Juan Fernando Villagran Olivera, Universidad de La Frontera.
- -Sebastian Andres Candia Cabezas Universidad de la Frontera.
- -Camilo Ignacio Godoy Cortez Universidad de la Frontera.
-
 
 
 #### integrantes: 
-- Sebastian Candia.
-- Juan Villagran.
-- Camilo Godoy.
+- Sebastian Andres Candia Cabezas Universidad de la Frontera.
+- Juan Fernando Villagran Olivera, Universidad de La Frontera.
+- Camilo Ignacio Godoy Cortez Universidad de la Frontera.
 
 
